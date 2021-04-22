@@ -44,8 +44,8 @@ github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/helmutkemper/kemper.com.br v0.0.0-20210419211826-7f142e94635b h1:QYFERGGeC3dfVTylYOe8zIgo6jnv2Sn7tYsqnngV5w8=
 github.com/helmutkemper/kemper.com.br v0.0.0-20210419211826-7f142e94635b/go.mod h1:FkXUF6rufrIT0Q0kwtQT0knaWPon62K8Ir6R5mqol+M=
-github.com/helmutkemper/kemper.com.br.module.dataformat v1.0.1 h1:5xLc3N8Jz/SbGGCyEw+Lk/f/OGckijyVofz5rZsfugU=
-github.com/helmutkemper/kemper.com.br.module.dataformat v1.0.1/go.mod h1:0y+OdMThNotL9jbmqyVoM8Pft6fMZMSu8nR/4riDbkg=
+github.com/helmutkemper/kemper.com.br.module.dataformat v1.0.2 h1:k4IW2qkn7xLlkdS97VPlzDJ82cMki8a/DJJseES2ZxI=
+github.com/helmutkemper/kemper.com.br.module.dataformat v1.0.2/go.mod h1:zceVnb6kBNu1AVJGLWpTTUX2Zkz71/GxNrxd6fV1kWk=
 github.com/helmutkemper/kemper.com.br.plugin.dataaccess.constants v0.0.0-20210421231326-ba16ba6ab2ff h1:w6s5rfP8tCghgtpi7cpxGLV1r6s6XPSHz7eapwaYj+Y=
 github.com/helmutkemper/kemper.com.br.plugin.dataaccess.constants v0.0.0-20210421231326-ba16ba6ab2ff/go.mod h1:g4qhcDxNGY6MGH7TZ2/SXK5pi1wEXMOEaFPIWytdCNY=
 github.com/helmutkemper/util v0.0.0-20210420213725-d4fad0e09c93 h1:PRAF11ghIE1y0e8Pff1ip8DpZkfPUrbJJEfGPrIWV4s=
