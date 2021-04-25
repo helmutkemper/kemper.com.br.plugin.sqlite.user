@@ -6,18 +6,17 @@ import (
 )
 
 func (e *SQLiteUser) New() (referenceInicialized interface{}, err error) {
-	referenceInicialized = &SQLiteUser{}
-	err = referenceInicialized.(*SQLiteUser).Connect(constants.KSQLiteConnectionString)
+	err = e.Connect(constants.KSQLiteConnectionString)
 	if err != nil {
 		util.TraceToLog()
 		return
 	}
 
-	err = referenceInicialized.(*SQLiteUser).Install()
+	err = e.Install()
 	if err != nil {
 		util.TraceToLog()
 		return
 	}
 
-	return
+	return e, nil
 }
