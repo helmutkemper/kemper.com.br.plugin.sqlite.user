@@ -5,7 +5,7 @@ import (
 	"errors"
 	dataformat "github.com/helmutkemper/kemper.com.br.module.dataformat"
 	"github.com/helmutkemper/kemper.com.br.plugin.dataaccess.constants"
-	"github.com/helmutkemper/kemper.com.br/util"
+	"github.com/helmutkemper/util"
 )
 
 // GetByEmail (Português): Retorna o menu escolhido dentro do formato do datasource

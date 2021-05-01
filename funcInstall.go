@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/helmutkemper/kemper.com.br/util"
+	"github.com/helmutkemper/util"
 )
 
 // Install (Português): Instala o menu e popula os primeiros dados.

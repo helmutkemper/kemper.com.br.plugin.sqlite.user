@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"github.com/helmutkemper/kemper.com.br/util"
+	"github.com/helmutkemper/util"
 )
 
 func (e *SQLiteUser) MailExists(mail string) (found bool, err error) {

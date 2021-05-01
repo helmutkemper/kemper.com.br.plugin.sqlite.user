@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"github.com/helmutkemper/kemper.com.br/util"
+	"github.com/helmutkemper/util"
 )
 
 //createTableMenu (Português): Cria a tabela do menu
