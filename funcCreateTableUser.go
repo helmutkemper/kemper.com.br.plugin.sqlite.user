@@ -12,11 +12,11 @@ func (e *SQLiteUser) createTableUser() (err error) {
 		CREATE TABLE IF NOT EXISTS
     	user (
 				id TEXT PRIMARY KEY,
-				admin INTEGER,         -- 0: normal user; 1 admin user
-				name TEXT,						 -- complete name
-				nickName TEXT,				 -- nick name
-				email TEXT,						 -- e-mail
-				password TEXT				 -- password
+				admin INTEGER,          -- 0: normal user; 1 admin user
+				name TEXT,              -- complete name
+				nickName TEXT,          -- nick name
+				email TEXT,             -- e-mail
+				password TEXT           -- password
 			);
 		`,
 	)
